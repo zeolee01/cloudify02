@@ -1,0 +1,7 @@
+.block1 {
+  position: relative;
+  background-image: url(assets/bg1.png);
+  background-size: cover;
+  box-shadow: inset 0 0 0 1440px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+}
